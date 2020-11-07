@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "236217109208",
+    "firebase_url": "https://voting-app-flutter-40ab3.firebaseio.com",
+    "project_id": "voting-app-flutter-40ab3",
+    "storage_bucket": "voting-app-flutter-40ab3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236217109208:android:2f63ce56c6b08b5d0865ad",
+        "android_client_info": {
+          "package_name": "com.example.voting_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236217109208-o2npi26et568pfn1kgpk3eq25ce7dl5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAklZHyLasdVHleUHcqD2yMJL7MmnbiriQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236217109208-o2npi26et568pfn1kgpk3eq25ce7dl5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
